@@ -152,3 +152,14 @@ section {
 .numbers li.num-11 {
     --rotate: 330deg;
 }
+
+footer {
+    padding: 0.4rem 2rem;
+    background-color: #000;
+    position: fixed;
+    inset: auto 0 0 0;
+}
+
+footer a {
+    color: #fff;
+}
